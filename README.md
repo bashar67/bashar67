@@ -15,7 +15,7 @@
 - 👨‍💻 I am a fresh graduate of Cairo University Faculty of Law
 - 👨‍💻 I'm teaching myself programming,Under the guidance of the Kalbaniyan Al-Mursus competition❤.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- 👨‍💻 Check out my portfolio at[https://bashar-portofolio.netlify.app/]to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://bashar-portofolio.netlify.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
